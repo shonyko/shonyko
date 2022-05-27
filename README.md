@@ -1,37 +1,17 @@
-<style>
-
-    .content {
-        display: grid;
-        grid-template-columns: 2fr 1fr;
-        grid-template-rows: 1fr 1fr;
-        gap: 0.5rem;
-    }
-
-    .content > * {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    img {
-        max-height: 15rem;
-    }
-</style>
-
-<div class="content">
-    <div>
+<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; gap: 0.5rem;">
+    <div style="display: flex; justify-content: center; align-items: center;">
         <p>Hi there 👋</p>
     </div>
 
-    <picture>
+    <picture style="display: flex; justify-content: center; align-items: center;">
         <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shonyko&layout=compact&langs_count=10&theme=dracula">
     </picture>
 
-    <picture>
+    <picture style="display: flex; justify-content: center; align-items: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=shonyko&show_icons=true&theme=dracula">
     </picture>
 
-    <picture>
+    <picture style="max-height: 15rem;">
         <img src="https://media.discordapp.net/attachments/886755206111580210/979826494819934208/pngwing.com_1.png">
     </picture>
 </div>
