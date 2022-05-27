@@ -1,4 +1,4 @@
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
     <tr>
         <td align="center" valign="center"><p>Hi there 👋</p></td>
         <td align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shonyko&layout=compact&langs_count=10&theme=dracula"></td>
