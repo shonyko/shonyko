@@ -20,7 +20,7 @@
 
 <div class="content">
     <div>
-        ### Hi there 👋
+        <p>Hi there 👋</p>
     </div>
 
     <picture>
