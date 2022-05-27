@@ -1,20 +1,14 @@
-<div style="display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; gap: 0.5rem;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-        <p>Hi there 👋</p>
-    </div>
-
-    <picture style="display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shonyko&layout=compact&langs_count=10&theme=dracula">
-    </picture>
-
-    <picture style="display: flex; justify-content: center; align-items: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shonyko&show_icons=true&theme=dracula">
-    </picture>
-
-    <picture style="max-height: 15rem;">
-        <img src="https://media.discordapp.net/attachments/886755206111580210/979826494819934208/pngwing.com_1.png">
-    </picture>
-</div>
+<table>
+    <tr>
+        <td align="center"><p>Hi there 👋</p></td>
+        <td align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shonyko&layout=compact&langs_count=10&theme=dracula"></td>
+    </tr>
+    
+    <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shonyko&show_icons=true&theme=dracula"></td>
+        <td align="center"><img width="50%" src="https://media.discordapp.net/attachments/886755206111580210/979826494819934208/pngwing.com_1.png"></td>
+    </tr>
+</table>
 
 <!--
 **shonyko/shonyko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
